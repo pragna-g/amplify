@@ -1,0 +1,26 @@
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCn0y99sQclon0iSn6vW9dFgNsuUu96SAcLQ&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
+
+form .card{
+    align-content: center;
+    margin-top: 100px;
+    margin-left: 60%;
+    width: 10cm;
+}
+.btn-primary{
+    /* margin-left: 72%; */
+    width: 8.97cm;
+}
+div input{
+    width: 8.4cm;
+    
+}
+label {
+    display: inline-block;
+    margin-bottom: 10px;
+  }

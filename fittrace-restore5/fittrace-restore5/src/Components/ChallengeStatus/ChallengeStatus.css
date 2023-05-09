@@ -1,0 +1,26 @@
+.cs{
+    color: black;
+}
+h4{
+    margin-top: 2px;
+    padding-top: 5px;
+}
+.card-profile-status{
+    
+    margin-left: 40% ;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 20%;
+    border: 1px,solid black;
+    background-color: antiquewhite;
+    color: black;
+    align-content: center;
+    border-collapse: separate;
+    border-spacing: 40px 10px;
+}
+.td{
+    align-content: center;
+}
+.challenge-status{
+    border-spacing: 10px 2px;
+}

@@ -1,0 +1,66 @@
+.falogohome {
+    position: fixed;
+    top: 78px;
+    right: 60px;
+    padding: 5px;
+    border-radius: 90%;
+    background-color: gray;
+  }
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.card-r{
+    width: fit-content;
+    height: fit-content;
+    padding-top: 0px;
+    padding-bottom: 2px;
+}
+
+.left, .right {
+    flex: 1;
+    padding: 10px;
+    color: black;
+}
+
+.left {
+    background: #e0e0e0;
+    color: black;
+}
+
+.right {
+    background: #e0e0e0;
+    color: rgb(11, 1, 1);
+    
+}
+
+h1 .register{
+    padding-bottom: 2px;
+    padding-top: 0px;
+}
+
+form {
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 100px;
+}
+
+input, button {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+button {
+    background: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0056b3;
+}

@@ -1,0 +1,59 @@
+body{
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  a:link{
+    text-decoration: none;
+  }
+  .buttonPlace{
+    margin-top: 180px;
+    margin-right: 30px;
+    margin-left: 550px;
+    padding-right: 9px;
+    box-shadow: inset;
+    margin-bottom: -80px;
+  }
+  /* .fit-trace{
+    margin-top: 60px;
+    margin-left: 50px;
+    font-size:38px;
+    color: #000110;
+    position: absolute;
+    right: 50px;
+    width: 200px;
+    height: 0px;
+  } */
+  span{
+    background-color:#000110;
+    height: 1px ;
+    color: cyan;
+  }
+  .btn, a, .navlink{
+    padding: 2.3px;
+    margin-left: 50px;
+    top: 50cm;
+    left: 50px;
+    width: 200px;
+    height: 33px;
+    font-display: bold;
+    ;
+  
+     margin-top: 47px;/*  distance b/w one line and another line */
+    margin-right: 0.3cm;
+    margin-left: 0.3cm;
+    border-radius: 0.3cm;
+    color: whitesmoke;
+    margin-bottom: -20px;
+    font-size: medium;
+    /* padding-left: 50px;
+    padding-right: 50px; */
+  }
+  Link{
+    background-color: gray;
+  }
+  .btn-signout{
+    margin-left: 126%;
+  }
+  
+  

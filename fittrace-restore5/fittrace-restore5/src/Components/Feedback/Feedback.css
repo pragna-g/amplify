@@ -1,0 +1,18 @@
+.cards {
+    flex-basis: calc(33.33% - 30px);
+    margin: 10px; 
+    margin-top: 90px;
+    margin-left:35% ;
+    margin-right: 35.4%;
+    padding: 20px; 
+    background-color: black; 
+    color: white;
+    border: .5px solid #ddd; 
+    box-sizing: border-box; 
+  }
+
+  .feedback-bg{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkNRojzpM6_e6x1Zrh52PaAsmfaoUhnoGvVA&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
